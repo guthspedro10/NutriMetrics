@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: NutriMetrics
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/patientnutrimetrics
+    username: ${DATABASE_USERNAME}
+    password: ${DATABASE_PASSWORD}
+
+  jpa:
+    hibernate:
+      ddl-auto: update
