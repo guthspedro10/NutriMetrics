@@ -1,4 +1,4 @@
-# 🥗 NutriMetrics API
+# 🥗 NutriMetrics
 
 ![Learning](https://skillicons.dev/icons?i=java,spring,mysql,postman)
 
