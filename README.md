@@ -61,7 +61,7 @@ src/main/java/com/pedroguths/nutrimetrics
 git clone https://github.com/guthspedro10/NutriMetrics.git
 ```
 
-### 2. Database Setup
+### 2. Database Configuration
 Configure your MySQL database connection in src/main/resources/application.yaml:
 
 ```
